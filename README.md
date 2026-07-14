@@ -6,11 +6,11 @@ Hi there 👋 I'm Neel Prajapati
 
 🚀 About Me
 
-I'm a third-year B.Tech Electronics & Communication Engineering student with a passion for building embedded systems, robotics, and digital hardware.
+I'm  B.Tech Electronics & Communication Engineering student with a passion for building embedded systems, robotics, and digital hardware.
 
 I enjoy learning through projects and continuously improving my technical skills. My current focus is on Embedded Systems, Firmware Development, Verilog, PCB Design, and Robotics while exploring AI & Machine Learning through my academic minor.
 
-Outside academics, I enjoy learning Japanese, experimenting with electronics, and creating 3D models in Blender.
+Outside academics, I enjoy learning experimenting with electronics, and creating 3D models in Blender.
 
 🤖 Featured Project
 Kibo
